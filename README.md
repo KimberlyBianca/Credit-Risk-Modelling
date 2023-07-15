@@ -1,6 +1,6 @@
 # Credit-Risk-Modelling
 
-**Dataset:** [Loan Data]([https://www.kaggle.com/rodsaldanha/arketing-campaign](https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014))
+**Dataset:** [Loan Data]([https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014])
 
 **Goal:** Our client, a lending company, want to increase the effectiveness in the process of predicting credit risk loans (determining which loan should be accepted or rejected)
 
